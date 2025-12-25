@@ -4,17 +4,17 @@ This project demonstrates an end-to-end data analytics workflow, covering data l
 The objective is to extract meaningful insights from raw data and present them clearly using visualizations and reports to support data-driven decision-making.
 
 # Dataset
-The dataset is loaded and processed using Python.
-2.It contains structured data suitable for analysis and visualization.
-3.Initial inspection includes checking data types, missing values, and basic statistics.
+1. The dataset is loaded and processed using Python.
+2. It contains structured data suitable for analysis and visualization.
+3. Initial inspection includes checking data types, missing values, and basic statistics.
 
 # Tools & Technologies
-1.Python: Data loading, cleaning, and exploratory data analysis
-2.Libraries: pandas, numpy, matplotlib, seaborn
-3.PostgreSQL: Writing and executing SQL queries for analytical insights
-4.Power BI: Interactive dashboard creation
-5.Gamma: Presentation (PPT) creation
-6.Jupyter Notebook / VS Code: Development environment
+1. Python: Data loading, cleaning, and exploratory data analysis
+2. Libraries: pandas, numpy, matplotlib, seaborn
+3. PostgreSQL: Writing and executing SQL queries for analytical insights
+4. Power BI: Interactive dashboard creation
+5. Gamma: Presentation (PPT) creation
+6. Jupyter Notebook / VS Code: Development environment
 
 # Project Steps
 1. Data Loading
@@ -41,6 +41,7 @@ The dataset is loaded and processed using Python.
     -Trend analysis
     -Category-wise and time-based insights
 -Designed for easy interpretation by both technical and non-technical users.
+
 
 # Results & Insights
 -Identified important patterns and trends in the data.
