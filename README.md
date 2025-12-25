@@ -60,8 +60,3 @@ This project demonstrates an end-to-end data analytics workflow, covering data l
 4. Load the cleaned dataset into PostgreSQL and execute the provided SQL queries.
 5. Open the Power BI file to explore the dashboard.
 6. Review the report and presentation for summarized insights.
-   
-
-
-
-This project showcases practical skills in data analytics, SQL, data visualization, and reporting, reflecting real-world analytical workflows and making it suitable for entry-level data analyst roles.
