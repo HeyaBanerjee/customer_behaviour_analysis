@@ -1,4 +1,4 @@
-# customer_behaviour_analysis
+# Customer Behaviour Analysis
 # Overview
 This project demonstrates an end-to-end data analytics workflow, covering data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, dashboard development, and reporting.
 The objective is to extract meaningful insights from raw data and present them clearly using visualizations and reports to support data-driven decision-making.
